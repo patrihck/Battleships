@@ -1,0 +1,12 @@
+D:\Repos\Interview\Battleships\Battleships.Data\bin\Debug\net7.0\Battleships.Data.deps.json
+D:\Repos\Interview\Battleships\Battleships.Data\bin\Debug\net7.0\Battleships.Data.dll
+D:\Repos\Interview\Battleships\Battleships.Data\bin\Debug\net7.0\Battleships.Data.pdb
+D:\Repos\Interview\Battleships\Battleships.Data\obj\Debug\net7.0\Battleships.Data.csproj.AssemblyReference.cache
+D:\Repos\Interview\Battleships\Battleships.Data\obj\Debug\net7.0\Battleships.Data.GeneratedMSBuildEditorConfig.editorconfig
+D:\Repos\Interview\Battleships\Battleships.Data\obj\Debug\net7.0\Battleships.Data.AssemblyInfoInputs.cache
+D:\Repos\Interview\Battleships\Battleships.Data\obj\Debug\net7.0\Battleships.Data.AssemblyInfo.cs
+D:\Repos\Interview\Battleships\Battleships.Data\obj\Debug\net7.0\Battleships.Data.csproj.CoreCompileInputs.cache
+D:\Repos\Interview\Battleships\Battleships.Data\obj\Debug\net7.0\Battleships.Data.dll
+D:\Repos\Interview\Battleships\Battleships.Data\obj\Debug\net7.0\refint\Battleships.Data.dll
+D:\Repos\Interview\Battleships\Battleships.Data\obj\Debug\net7.0\Battleships.Data.pdb
+D:\Repos\Interview\Battleships\Battleships.Data\obj\Debug\net7.0\ref\Battleships.Data.dll

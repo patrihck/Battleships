@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "Battleships.Business/1.0.0": {
+        "dependencies": {
+          "Battleships.Data": "1.0.0"
+        },
+        "runtime": {
+          "Battleships.Business.dll": {}
+        }
+      },
+      "Battleships.Data/1.0.0": {
+        "runtime": {
+          "Battleships.Data.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Battleships.Business/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Battleships.Data/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

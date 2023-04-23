@@ -1,0 +1,15 @@
+D:\Repos\Interview\Battleships\Battleships.Business\bin\Debug\net7.0\Battleships.Business.deps.json
+D:\Repos\Interview\Battleships\Battleships.Business\bin\Debug\net7.0\Battleships.Business.dll
+D:\Repos\Interview\Battleships\Battleships.Business\bin\Debug\net7.0\Battleships.Business.pdb
+D:\Repos\Interview\Battleships\Battleships.Business\bin\Debug\net7.0\Battleships.Data.dll
+D:\Repos\Interview\Battleships\Battleships.Business\bin\Debug\net7.0\Battleships.Data.pdb
+D:\Repos\Interview\Battleships\Battleships.Business\obj\Debug\net7.0\Battleships.Business.csproj.AssemblyReference.cache
+D:\Repos\Interview\Battleships\Battleships.Business\obj\Debug\net7.0\Battleships.Business.GeneratedMSBuildEditorConfig.editorconfig
+D:\Repos\Interview\Battleships\Battleships.Business\obj\Debug\net7.0\Battleships.Business.AssemblyInfoInputs.cache
+D:\Repos\Interview\Battleships\Battleships.Business\obj\Debug\net7.0\Battleships.Business.AssemblyInfo.cs
+D:\Repos\Interview\Battleships\Battleships.Business\obj\Debug\net7.0\Battleships.Business.csproj.CoreCompileInputs.cache
+D:\Repos\Interview\Battleships\Battleships.Business\obj\Debug\net7.0\Battleships.Business.csproj.CopyComplete
+D:\Repos\Interview\Battleships\Battleships.Business\obj\Debug\net7.0\Battleships.Business.dll
+D:\Repos\Interview\Battleships\Battleships.Business\obj\Debug\net7.0\refint\Battleships.Business.dll
+D:\Repos\Interview\Battleships\Battleships.Business\obj\Debug\net7.0\Battleships.Business.pdb
+D:\Repos\Interview\Battleships\Battleships.Business\obj\Debug\net7.0\ref\Battleships.Business.dll
